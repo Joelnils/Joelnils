@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning UX/UI @ ITHS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me joel.fredriksson@hotmail.se
+- 📫 How to reach me joel.fredriksson91@hotmail.se
 
 <!---
 Joelnils/Joelnils is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
